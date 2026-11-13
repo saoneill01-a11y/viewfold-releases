@@ -1,6 +1,8 @@
-# Viewfold
+<h1><img src="images/icon.png" width="64" height="64" align="absmiddle" alt=""> Viewfold</h1>
 
 A fast, simple picture and video viewer for the Mac.
+
+<img src="images/screenshot.png" alt="Viewfold showing a folder of pictures, with the folder list on the left">
 
 **[⬇ Download Viewfold for Mac](https://github.com/saoneill01-a11y/viewfold-releases/releases/latest/download/Viewfold.dmg)**
 
